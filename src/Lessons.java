@@ -1,5 +1,5 @@
 public class Lessons {
-    public static void main (String args[]) {
+    public static void main (String[] args) {
         System.out.println("Первая программа:");
         System.out.println("Java правит Интереном!");
         System.out.println("________________");

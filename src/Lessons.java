@@ -23,6 +23,7 @@ public class Lessons {
         System.out.println("Значение переменной х после деления на 4: " + x);
         System.out.println("________________");
         System.out.println();
+        System.out.println("Четвёртая программа:");
         
 
 
